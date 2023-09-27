@@ -1,0 +1,7 @@
+D:\myprojects\internship\csharp\ConsoleAppModule02\ConsoleAppModule02\bin\Debug\ConsoleAppModule02.exe.config
+D:\myprojects\internship\csharp\ConsoleAppModule02\ConsoleAppModule02\bin\Debug\ConsoleAppModule02.exe
+D:\myprojects\internship\csharp\ConsoleAppModule02\ConsoleAppModule02\bin\Debug\ConsoleAppModule02.pdb
+D:\myprojects\internship\csharp\ConsoleAppModule02\ConsoleAppModule02\obj\Debug\ConsoleAppModule02.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\ConsoleAppModule02\ConsoleAppModule02\obj\Debug\ConsoleAppModule02.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\ConsoleAppModule02\ConsoleAppModule02\obj\Debug\ConsoleAppModule02.exe
+D:\myprojects\internship\csharp\ConsoleAppModule02\ConsoleAppModule02\obj\Debug\ConsoleAppModule02.pdb
