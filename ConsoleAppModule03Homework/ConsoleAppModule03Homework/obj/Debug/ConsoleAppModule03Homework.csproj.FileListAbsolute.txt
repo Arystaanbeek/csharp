@@ -1,0 +1,7 @@
+D:\myprojects\internship\csharp\ConsoleAppModule03Homework\ConsoleAppModule03Homework\bin\Debug\ConsoleAppModule03Homework.exe.config
+D:\myprojects\internship\csharp\ConsoleAppModule03Homework\ConsoleAppModule03Homework\bin\Debug\ConsoleAppModule03Homework.exe
+D:\myprojects\internship\csharp\ConsoleAppModule03Homework\ConsoleAppModule03Homework\bin\Debug\ConsoleAppModule03Homework.pdb
+D:\myprojects\internship\csharp\ConsoleAppModule03Homework\ConsoleAppModule03Homework\obj\Debug\ConsoleAppModule03Homework.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\ConsoleAppModule03Homework\ConsoleAppModule03Homework\obj\Debug\ConsoleAppModule03Homework.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\ConsoleAppModule03Homework\ConsoleAppModule03Homework\obj\Debug\ConsoleAppModule03Homework.exe
+D:\myprojects\internship\csharp\ConsoleAppModule03Homework\ConsoleAppModule03Homework\obj\Debug\ConsoleAppModule03Homework.pdb
