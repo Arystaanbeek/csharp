@@ -1,0 +1,7 @@
+D:\myprojects\internship\csharp\ConsoleAppModule03Practice\ConsoleAppModule03Practice\obj\Debug\ConsoleAppModule03Practice.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\ConsoleAppModule03Practice\ConsoleAppModule03Practice\obj\Debug\ConsoleAppModule03Practice.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\ConsoleAppModule03Practice\ConsoleAppModule03Practice\bin\Debug\ConsoleAppModule03Practice.exe.config
+D:\myprojects\internship\csharp\ConsoleAppModule03Practice\ConsoleAppModule03Practice\bin\Debug\ConsoleAppModule03Practice.exe
+D:\myprojects\internship\csharp\ConsoleAppModule03Practice\ConsoleAppModule03Practice\bin\Debug\ConsoleAppModule03Practice.pdb
+D:\myprojects\internship\csharp\ConsoleAppModule03Practice\ConsoleAppModule03Practice\obj\Debug\ConsoleAppModule03Practice.exe
+D:\myprojects\internship\csharp\ConsoleAppModule03Practice\ConsoleAppModule03Practice\obj\Debug\ConsoleAppModule03Practice.pdb
