@@ -1,0 +1,7 @@
+D:\myprojects\internship\csharp\Module04\Module04\bin\Debug\Module04.exe.config
+D:\myprojects\internship\csharp\Module04\Module04\bin\Debug\Module04.exe
+D:\myprojects\internship\csharp\Module04\Module04\bin\Debug\Module04.pdb
+D:\myprojects\internship\csharp\Module04\Module04\obj\Debug\Module04.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\Module04\Module04\obj\Debug\Module04.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\Module04\Module04\obj\Debug\Module04.exe
+D:\myprojects\internship\csharp\Module04\Module04\obj\Debug\Module04.pdb
