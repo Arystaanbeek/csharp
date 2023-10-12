@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClassLibraryModule06
 {
-    public class Class1
+    public class Constants
     {
+        public const string name = "Mukhammed";
+        public const int id = 123;
     }
 }
