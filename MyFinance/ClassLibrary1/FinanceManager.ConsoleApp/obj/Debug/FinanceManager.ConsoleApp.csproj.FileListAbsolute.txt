@@ -1,0 +1,14 @@
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\FinanceManager.ConsoleApp.exe.config
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\FinanceManager.ConsoleApp.exe
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\FinanceManager.ConsoleApp.pdb
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\ClassLibrary1.dll
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\Service.dll
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\LiteDB.dll
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\ClassLibrary1.pdb
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\Service.pdb
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\bin\Debug\LiteDB.xml
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\obj\Debug\FinanceManager.ConsoleApp.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\obj\Debug\FinanceManager.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\obj\Debug\FinanceManager.ConsoleApp.csproj.CopyComplete
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\obj\Debug\FinanceManager.ConsoleApp.exe
+D:\myprojects\internship\csharp\MyFinance\ClassLibrary1\FinanceManager.ConsoleApp\obj\Debug\FinanceManager.ConsoleApp.pdb

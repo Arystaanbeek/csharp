@@ -1,0 +1,7 @@
+D:\myprojects\internship\csharp\Module13\Module13\bin\Debug\Module13.exe.config
+D:\myprojects\internship\csharp\Module13\Module13\bin\Debug\Module13.exe
+D:\myprojects\internship\csharp\Module13\Module13\bin\Debug\Module13.pdb
+D:\myprojects\internship\csharp\Module13\Module13\obj\Debug\Module13.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\Module13\Module13\obj\Debug\Module13.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\Module13\Module13\obj\Debug\Module13.exe
+D:\myprojects\internship\csharp\Module13\Module13\obj\Debug\Module13.pdb
