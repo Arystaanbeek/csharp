@@ -1,6 +1,10 @@
-﻿/*using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace ConsoleAppModule03
+namespace ConsoleAppModule03Homework
 {
     internal class task1
     {
@@ -15,4 +19,3 @@ namespace ConsoleAppModule03
         }
     }
 }
-*/

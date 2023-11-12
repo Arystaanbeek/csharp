@@ -10,6 +10,11 @@ namespace ConsoleAppModule01
     {
         static void Main(string[] args)
         {
+            Console.Write("Введите ваше имя: ");
+            string firstname = Console.ReadLine();
+            Console.Write("Введите вашу фамилию: ");
+            string secondname = Console.ReadLine();
+            Console.WriteLine($"Приветствую тебя {firstname} {secondname}");
         }
     }
 }

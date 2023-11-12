@@ -43,11 +43,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bankomat.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="task2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bankomat\Bankomat.csproj">
+      <Project>{0e0f5da9-4d22-4589-bcf4-60bba076c676}</Project>
+      <Name>Bankomat</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClassLibraryModule06\ClassLibraryModule06.csproj">
+      <Project>{65f001d1-a5d1-43e6-8135-8a012ed1d580}</Project>
+      <Name>ClassLibraryModule06</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
