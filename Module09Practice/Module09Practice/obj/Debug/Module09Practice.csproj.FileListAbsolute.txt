@@ -1,0 +1,7 @@
+D:\myprojects\internship\csharp\Module09Practice\Module09Practice\bin\Debug\Module09Practice.exe.config
+D:\myprojects\internship\csharp\Module09Practice\Module09Practice\bin\Debug\Module09Practice.exe
+D:\myprojects\internship\csharp\Module09Practice\Module09Practice\bin\Debug\Module09Practice.pdb
+D:\myprojects\internship\csharp\Module09Practice\Module09Practice\obj\Debug\Module09Practice.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\Module09Practice\Module09Practice\obj\Debug\Module09Practice.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\Module09Practice\Module09Practice\obj\Debug\Module09Practice.exe
+D:\myprojects\internship\csharp\Module09Practice\Module09Practice\obj\Debug\Module09Practice.pdb
