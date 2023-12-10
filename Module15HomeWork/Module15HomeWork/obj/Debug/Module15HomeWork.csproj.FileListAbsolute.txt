@@ -1,0 +1,7 @@
+D:\myprojects\internship\csharp\Module15HomeWork\Module15HomeWork\bin\Debug\Module15HomeWork.exe.config
+D:\myprojects\internship\csharp\Module15HomeWork\Module15HomeWork\bin\Debug\Module15HomeWork.exe
+D:\myprojects\internship\csharp\Module15HomeWork\Module15HomeWork\bin\Debug\Module15HomeWork.pdb
+D:\myprojects\internship\csharp\Module15HomeWork\Module15HomeWork\obj\Debug\Module15HomeWork.csproj.AssemblyReference.cache
+D:\myprojects\internship\csharp\Module15HomeWork\Module15HomeWork\obj\Debug\Module15HomeWork.csproj.CoreCompileInputs.cache
+D:\myprojects\internship\csharp\Module15HomeWork\Module15HomeWork\obj\Debug\Module15HomeWork.exe
+D:\myprojects\internship\csharp\Module15HomeWork\Module15HomeWork\obj\Debug\Module15HomeWork.pdb
